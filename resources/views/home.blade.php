@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    Let's play baseball !!!
+                    Welcome!
                 </div>
             </div>
         </div>
