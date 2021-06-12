@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    Welcome!
+                    Hello Laravel!
                 </div>
             </div>
         </div>
